@@ -40,10 +40,10 @@ The README of this repository is a concise list of learning resources, videos, b
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="#getting-started"> :bookmark_tabs: Machine Learning Roadmap</h2>
+<h2 id="getting-started"> :bookmark_tabs: Machine Learning Roadmap</h2>
 
 Good resources for some suggested plans to learn Machine Learning:
-*    <h4 id="#getting-started-videos" >Videos:</h4>
+*    <h4 id="getting-started-videos" >Videos:</h4>
 
       +    [2020 Machine Learning Roadmap (95% valid for 2022)](https://www.youtube.com/watch?v=pHiMN_gy9mk)
       +    [Ultimate Machine Learning Roadmap 2022 (PDF Included)!](https://www.youtube.com/watch?v=y4o9hrSCDPI&t=189s&ab_channel=SmithaKolan-MachineLearningEngineer)
@@ -55,17 +55,17 @@ Good resources for some suggested plans to learn Machine Learning:
 
 <!-- getting-started -->
 
-<h2 id="#Project"> :key: Machine Learning project Steps</h2>
+<h2 id="Project"> :key: Machine Learning project Steps</h2>
 
-<h3 id="#Project-EDA"> :bar_chart: Exploratory Data Visualisation Resources and Tools</h3>
+<h3 id="Project-EDA"> :bar_chart: Exploratory Data Visualisation Resources and Tools</h3>
 
 Resources to aid exploratory data analysis :
-*    <h4 id="#Project-EDA-Articles">Articles:</h4>
+*    <h4 id="Project-EDA-Articles">Articles:</h4>
 
 
       +    [Exploratory Data Analysis (EDA) and Data Visualization with Python](https://www.kite.com/blog/python/data-analysis-visualization-python/)
       +    [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
-*    <h4 id="#Project-EDA-Videos">Videos:</h4>
+*    <h4 id="Project-EDA-Videos">Videos:</h4>
 
 
       +    [Exploratory Data Analysis with Pandas Python 2022](https://www.youtube.com/watch?v=xi0vhXFPegw&ab_channel=MedallionDataScience)
