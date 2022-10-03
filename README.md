@@ -25,17 +25,21 @@ The README of this repository is a concise list of learning resources, videos, b
  <ol>
         <li><a href="#getting-started"> Machine Learning Roadmap</a></li>       
           <ul>
-            <li><a href="#getting-started-videos">Videos</a></li>             
+            <li><a href="#getting-started-Videos">Videos</a></li>             
             <li><a href="#getting-started-articles">Articles</a></li>            
           </ul>
         <li><a href="#Project"> Machine Learning project Steps</a></li>       
           <ul>
-            <li><a href="#Project-EDA">Explarotary data analysis</a></li>
+          <li><a href="#Project-steps">Overview of a Machine Learning project steps</a></li>
+                <ul>
+                  <li><a href="#Project-steps-videos">Videos</a></li>
+                </ul>     
+           <li><a href="#Project-EDA">Explarotary data analysis</a></li>
                 <ul>
                   <li><a href="#Project-EDA-Articles">Articles</a></li>
                   <li><a href="#Project-EDA-Videos">Videos</a></li>
                 </ul>
-          </ul>    
+         </ul>    
   </ol>
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -43,7 +47,7 @@ The README of this repository is a concise list of learning resources, videos, b
 <h2 id="getting-started"> :bookmark_tabs: Machine Learning Roadmap</h2>
 
 Good resources for some suggested plans to learn Machine Learning:
-*    <h4 id="getting-started-videos" >Videos:</h4>
+*    <h4 id="getting-started-Videos" >Videos:</h4>
 
       +    [2020 Machine Learning Roadmap (95% valid for 2022)](https://www.youtube.com/watch?v=pHiMN_gy9mk)
       +    [Ultimate Machine Learning Roadmap 2022 (PDF Included)!](https://www.youtube.com/watch?v=y4o9hrSCDPI&t=189s&ab_channel=SmithaKolan-MachineLearningEngineer)
@@ -56,6 +60,11 @@ Good resources for some suggested plans to learn Machine Learning:
 <!-- getting-started -->
 
 <h2 id="Project"> :key: Machine Learning project Steps</h2>
+<h3 id="Project-steps"> :bar_chart: Overview of a machine learning project steps</h3>
+
+*    <h4 id="Project-steps-videos">videos:</h4>
+
+     +    [Overview of Machine Learning Model Building Process](https://www.youtube.com/watch?v=BOk1hlCPW0c&list=WL&index=25&t=9s&ab_channel=DataProfessor)
 
 <h3 id="Project-EDA"> :bar_chart: Exploratory Data Visualisation Resources and Tools</h3>
 
