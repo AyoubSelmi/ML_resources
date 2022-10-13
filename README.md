@@ -26,7 +26,7 @@ The README of this repository is a concise list of learning resources, videos, b
         <li><a href="#getting-started"> Machine Learning Roadmap</a></li>       
           <ul>
             <li><a href="#getting-started-Videos">Videos</a></li>             
-            <li><a href="#getting-started-articles">Articles</a></li>            
+            <li><a href="#getting-started-other">Other resources</a></li>            
           </ul>
         <li><a href="#Project"> Machine Learning project Steps</a></li>       
           <ul>
@@ -52,7 +52,8 @@ Good resources for some suggested plans to learn Machine Learning:
       +    [2020 Machine Learning Roadmap (95% valid for 2022)](https://www.youtube.com/watch?v=pHiMN_gy9mk)
       +    [Ultimate Machine Learning Roadmap 2022 (PDF Included)!](https://www.youtube.com/watch?v=y4o9hrSCDPI&t=189s&ab_channel=SmithaKolan-MachineLearningEngineer)
       +    [Top Machine Learning Certifications That Will Set You Apart (2022)](https://www.youtube.com/watch?v=0aK8CmQko0s&t=469s&ab_channel=SmithaKolan-MachineLearningEngineer)
-      
+*    <h4 id="getting-started-other" >Other:</h4>
+      +     Get familiar with machine learning accronyms from [https://github.com/AgaMiko/machine-learning-acronyms] (this)
 <a href="#table-of-contents">Back to Contents</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
